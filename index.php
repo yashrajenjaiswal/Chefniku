@@ -35,7 +35,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <a href="#about" class="w3-button w3-block w3-black" >ABOUT</a>
     </div>
     <div class="w3-col s3">
-      <a href="sensmail.php" class="w3-button w3-block w3-black">BOOKING AND QUERIES</a>
+      <a href="<?PHP header("sensmail.php"); ?>" class="w3-button w3-block w3-black">BOOKING AND QUERIES</a>
     </div>
     <div class="w3-col s3">
       <a href="#where" class="w3-button w3-block w3-black">EVENTS</a>
