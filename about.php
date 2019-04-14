@@ -32,8 +32,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <div class="w3-top">
   <div class="w3-bar w3-black w3-card">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="about.php" class="w3-bar-item w3-button w3-padding-large">HOME</a>
-    <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ABOUT ME</a>
+    <a href="index.php" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+    <a href="about.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ABOUT ME</a>
     <a href="#tour" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ENQUIRIES</a>
     <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">EVENTS</a>
     <div class="w3-dropdown-hover w3-hide-small">
